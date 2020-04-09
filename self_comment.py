@@ -11,7 +11,6 @@ for line in f:
     password = x[1]
 f.close()
 
-
 time.sleep(.5)
 # comment
 fc = open("files/cat_comment_rus.txt", "r", encoding='utf-8')
